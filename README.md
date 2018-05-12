@@ -1,2 +1,0 @@
-# OpenData
-Datos Abiertos BOG
